@@ -1,4 +1,4 @@
-var json_D:\СК\Локализация\Calibrovki\Calibrovki_web\data\granici_SK63_C_zone_5 = {
+var json_granici_SK63_C_zone_5 = {
 "type": "FeatureCollection",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
